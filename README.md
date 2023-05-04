@@ -16,7 +16,7 @@ When I refresh the page, then the saved events persist
 Website link:
 
 
-![Alt text]()
+![Alt text](./assets/pictures/Screenshot%202023-05-04%20045511.png)
 Screenshot of the website
 
 This project was built of the starter code provided here: https://github.com/coding-boot-camp/crispy-octo-meme
